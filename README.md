@@ -8,7 +8,7 @@ Hi, I'm Levi Rahman. I mainly use functional programming languages. Nevertheless
 - Language: English
 - Birthday: October 27, 1991
 - Address: Toronto, Ontario
-- Tech: React, Node, Angular, Typescript, Javascript, Python
+- Tech: React, Node, Angular, Typescript, Javascript, Python, ...
 
 ### Get in touch
 
