@@ -17,3 +17,4 @@ Reach me at:
 - E-mail: levirahsh@gmail.com
 - Telegram: https://t.me/defi_hermes
 - Discord: hermes#1027
+- Skype: live:.cid.1b244660934d49b6
