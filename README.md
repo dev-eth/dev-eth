@@ -15,5 +15,3 @@ Hi, I'm Levi Rahman. I mainly use functional programming languages. Nevertheless
 Reach me at: 
 
 - E-mail: levirahsh@gmail.com
-- Telegram: https://t.me/defi_hermes
-- Discord: hermes#1027
