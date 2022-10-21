@@ -7,4 +7,5 @@ I mainly use functional programming languages. Nevertheless, I'm not cynical abo
 ### Other information
 
 - Language: English
-- Tech: React, Node, Angular, Javascript, Typescript, Python, AWS, ...
+- Technology: React, Node, Angular, Javascript, Typescript, Python, AWS, ...
+- Hobby: Research, Learn new tech
