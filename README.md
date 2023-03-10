@@ -10,4 +10,3 @@ I mainly use functional programming languages. Nevertheless, I'm not cynical abo
 - Language: English
 - Technology: React, Node, Angular, Javascript, Typescript, Python, AWS, ...
 - Hobby: Research, Learn new tech
-- Skype: live:.cid.1b244660934d49b6
